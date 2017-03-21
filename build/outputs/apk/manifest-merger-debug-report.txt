@@ -43,6 +43,7 @@ ADDED from AndroidManifest.xml:16:5
 		ADDED from AndroidManifest.xml:16:22
 uses-sdk
 ADDED from AndroidManifest.xml:18:5
+MERGED from :sinch-android-rtc:3.9.14:7:5
 	android:targetSdkVersion
 		ADDED from AndroidManifest.xml:20:13
 		INJECTED from AndroidManifest.xml:0:0
@@ -53,6 +54,7 @@ ADDED from AndroidManifest.xml:18:5
 		INJECTED from AndroidManifest.xml:0:0
 application
 ADDED from AndroidManifest.xml:22:5
+MERGED from :sinch-android-rtc:3.9.14:11:5
 	android:label
 		ADDED from AndroidManifest.xml:25:13
 	android:allowBackup
@@ -101,3 +103,15 @@ ADDED from AndroidManifest.xml:40:9
 		ADDED from AndroidManifest.xml:40:53
 	android:name
 		ADDED from AndroidManifest.xml:40:19
+service#com.sinch.android.rtc.internal.client.gcm.InstanceIDTokenService
+ADDED from :sinch-android-rtc:3.9.14:12:9
+	android:exported
+		ADDED from :sinch-android-rtc:3.9.14:14:13
+	android:name
+		ADDED from :sinch-android-rtc:3.9.14:13:13
+intent-filter#com.google.android.gms.iid.InstanceID
+ADDED from :sinch-android-rtc:3.9.14:15:13
+action#com.google.android.gms.iid.InstanceID
+ADDED from :sinch-android-rtc:3.9.14:16:17
+	android:name
+		ADDED from :sinch-android-rtc:3.9.14:16:25

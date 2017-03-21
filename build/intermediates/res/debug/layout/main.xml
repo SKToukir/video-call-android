@@ -2,9 +2,8 @@
                 xmlns:tools="http://schemas.android.com/tools"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="@drawable/startbg"
                 android:padding="0dip"
-                tools:context=".MakeCallActivity">
+                tools:context=".PlaceCallActivity">
 
     <LinearLayout
             android:layout_width="fill_parent"
@@ -12,7 +11,8 @@
             android:layout_centerVertical="true"
             android:orientation="vertical"
             android:paddingLeft="40dp"
-            android:paddingRight="40dp" android:id="@+id/numberInputLayout">
+            android:paddingRight="40dp"
+            android:id="@+id/numberInputLayout">
 
         <TextView
                 android:layout_width="wrap_content"
@@ -92,4 +92,4 @@
 
     </RelativeLayout>
 
-</RelativeLayout><!-- From: file:/Users/carengarcia/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/layout/main.xml -->
+</RelativeLayout><!-- From: file:/C:/Users/it-6/Desktop/Project/VIP/android-video-calling-master/res/layout/main.xml -->

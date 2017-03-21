@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\it-6\Desktop\Project\VIP\android-video-calling-master\build\intermediates\exploded-aar\sinch-android-rtc\3.9.14\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5d2773d08ab0ea9247f0fc0b3178f5b616cacd0d">
+        <dex dex="C:\Users\it-6\Desktop\Project\VIP\android-video-calling-master\build\intermediates\pre-dexed\debug\classes-dda261de4ed1ba8e9de6f9652db8055cfc32ea43.jar" />
+    </item>
+
+</items>

@@ -44,6 +44,14 @@
         <activity
             android:name="com.sinch.android.rtc.sample.video.PlaceCallActivity"
             android:screenOrientation="portrait" />
+
+        <service
+            android:name="com.sinch.android.rtc.internal.client.gcm.InstanceIDTokenService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.iid.InstanceID" />
+            </intent-filter>
+        </service>
     </application>
 
 </manifest>
